@@ -1,0 +1,15 @@
+/**
+ * @fileoverview added by tsickle
+ * @suppress {checkTypes,extraRequire,uselessCode} checked by tsc
+ */
+/*
+ * Public API Surface of json-schema-form
+ */
+export { JsonSchemaFormService } from './lib/json-schema-form.service';
+export { JSON_SCHEMA_FORM_VALUE_ACCESSOR, JsonSchemaFormComponent } from './lib/json-schema-form.component';
+export { JsonSchemaFormModule } from './lib/json-schema-form.module';
+export { FrameworkLibraryService, NoFramework, NoFrameworkModule, MaterialDesignFramework, MaterialDesignFrameworkModule, Bootstrap3Framework, Bootstrap3FrameworkModule, Bootstrap4Framework, Bootstrap4FrameworkModule } from './lib/framework-library';
+export { _executeValidators, _executeAsyncValidators, _mergeObjects, _mergeErrors, isDefined, hasValue, isEmpty, isString, isNumber, isInteger, isBoolean, isFunction, isObject, isArray, isDate, isMap, isSet, isPromise, isObservable, getType, isType, isPrimitive, toJavaScriptType, toSchemaType, _toPromise, toObservable, inArray, xor, addClasses, copy, forEach, forEachCopy, hasOwn, mergeFilteredObject, uniqueItems, commonItems, fixTitle, toTitleCase, JsonPointer, JsonValidators, buildSchemaFromLayout, buildSchemaFromData, getFromSchema, removeRecursiveReferences, getInputType, checkInlineType, isInputRequired, updateInputOptions, getTitleMapFromOneOf, getControlValidators, resolveSchemaReferences, getSubSchema, combineAllOf, fixRequiredArrayProperties, convertSchemaToDraft6, mergeSchemas, buildFormGroupTemplate, buildFormGroup, formatFormData, getControl, setRequiredFields, buildLayout, buildLayoutFromSchema, mapLayout, getLayoutNode, buildTitleMap, dateToString, stringToDate, findDate, OrderableDirective } from './lib/shared';
+export { BASIC_WIDGETS, AddReferenceComponent, OneOfComponent, ButtonComponent, CheckboxComponent, CheckboxesComponent, FileComponent, HiddenComponent, InputComponent, MessageComponent, NoneComponent, NumberComponent, RadiosComponent, RootComponent, SectionComponent, SelectComponent, SelectFrameworkComponent, SelectWidgetComponent, SubmitComponent, TabComponent, TabsComponent, TemplateComponent, TextareaComponent } from './lib/widget-library';
+
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljX2FwaS5qcyIsInNvdXJjZVJvb3QiOiJuZzovL25nNi1qc29uLXNjaGVtYS1mb3JtLyIsInNvdXJjZXMiOlsicHVibGljX2FwaS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiOzs7Ozs7O0FBSUEsc0NBQWMsZ0NBQWdDLENBQUM7QUFDL0MseUVBQWMsa0NBQWtDLENBQUM7QUFDakQscUNBQWMsK0JBQStCLENBQUM7QUFDOUMsZ09BQWMseUJBQXlCLENBQUM7QUFDeEMsa2dDQUFjLGNBQWMsQ0FBQztBQUM3Qix3YUFBYyxzQkFBc0IsQ0FBQyIsInNvdXJjZXNDb250ZW50IjpbIi8qXG4gKiBQdWJsaWMgQVBJIFN1cmZhY2Ugb2YganNvbi1zY2hlbWEtZm9ybVxuICovXG5cbmV4cG9ydCAqIGZyb20gJy4vbGliL2pzb24tc2NoZW1hLWZvcm0uc2VydmljZSc7XG5leHBvcnQgKiBmcm9tICcuL2xpYi9qc29uLXNjaGVtYS1mb3JtLmNvbXBvbmVudCc7XG5leHBvcnQgKiBmcm9tICcuL2xpYi9qc29uLXNjaGVtYS1mb3JtLm1vZHVsZSc7XG5leHBvcnQgKiBmcm9tICcuL2xpYi9mcmFtZXdvcmstbGlicmFyeSc7XG5leHBvcnQgKiBmcm9tICcuL2xpYi9zaGFyZWQnO1xuZXhwb3J0ICogZnJvbSAnLi9saWIvd2lkZ2V0LWxpYnJhcnknO1xuXG4iXX0=

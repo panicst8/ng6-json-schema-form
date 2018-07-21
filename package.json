@@ -1,0 +1,52 @@
+{
+  "name": "ng6-json-schema-form",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "David Schnell-Davis",
+      "email": "dschnelldavis@gmail.com"
+    },
+    {
+      "name": "Hamza Hamidi",
+      "email": "hamidihamzacg@gmail.com"
+    }
+  ],
+  "description": "Angular JSON Schema Form builder",
+  "keywords": [
+    "Angular",
+    "ng",
+    "Angular6",
+    "Angular 6",
+    "ng6",
+    "JSON Schema",
+    "form",
+    "forms",
+    "form builder"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": {
+    "url": ""
+  },
+  "private": false,
+  "peerDependencies": {
+    "ajv": "^6.0.1",
+    "lodash": "^4.17.4"
+  },
+  "main": "bundles/ng6-json-schema-form.umd.js",
+  "module": "fesm5/ng6-json-schema-form.js",
+  "es2015": "fesm2015/ng6-json-schema-form.js",
+  "esm5": "esm5/ng6-json-schema-form.js",
+  "esm2015": "esm2015/ng6-json-schema-form.js",
+  "fesm5": "fesm5/ng6-json-schema-form.js",
+  "fesm2015": "fesm2015/ng6-json-schema-form.js",
+  "typings": "ng6-json-schema-form.d.ts",
+  "metadata": "ng6-json-schema-form.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}
